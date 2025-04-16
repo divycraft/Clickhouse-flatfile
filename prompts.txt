@@ -1,0 +1,15 @@
+"Generate a Java Spring Boot controller for a REST API that connects to a ClickHouse database using JWT authentication and fetches table schemas."
+
+"Write a React component with Tailwind CSS for a form that accepts ClickHouse connection parameters (host, port, database, user, JWT token) and displays a table list with column selection checkboxes."
+
+"Provide a Java utility class to parse a CSV file, extract headers, and return a list of columns for a web application."
+
+"Debug this Java code for batching ClickHouse query results into a CSV file: [insert code snippet]. Fix the issue where the output CSV is missing some rows."
+
+"Suggest a Java function to stream data from a ClickHouse table to a flat file with error handling for connection failures."
+
+"Create a Jest test case for a React component that renders a data preview table with 100 rows and selected columns."
+
+"Explain how to implement a progress bar in React for a long-running data ingestion process, updating based on backend API calls."
+
+"Generate SQL query logic in Java to perform a JOIN on two ClickHouse tables based on user-provided keys and conditions."
